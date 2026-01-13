@@ -1,0 +1,16 @@
+body {
+    font-family: Arial,  sans-serif; /* Font family */
+    font-size: 11px; /* O tamanho da fonte principal<p></p> tag  */
+    background-color: #f0f0f0; /* A cor do plano de fundo da página */
+    color: #333333; /* A cor do texto */ 
+}
+h1 {
+    color: #5988FF; /* A cor do cabeçalho */
+    font-size: 24px; /* A cor da fonte do cabeçalho */
+    font-family: Inter; /* A font usada no cabeçalho*/
+}
+h2 {
+    color: #FD98FB;
+    font-size: 16px;
+    font-family: Inter;
+}
