@@ -76,4 +76,4 @@ async def Isopor(ctx):
 async def Tecido(ctx):
     await ctx.send("O tecido demora entre 6 e 12 meses para se decompor. Tente doar ou vender. Se não for possível, entregue num ponto de coleta especializado. Se não for possível, descarte em lixo reciclável.")
 
-bot.run("MTQ1MDkxMzU1MjM5MDE2NDUzMA.GE4l8Y.w0XmHW2vA6mUprrTz4vJOMSnNUTGCMB2ZIhrig")
+bot.run("teste")
