@@ -115,4 +115,4 @@ async def duck(ctx):
 
 
 
-bot.run('MTQ0MzMxNTE0MjI4NzgxODg2NA.GWgqhr.04CEIH0Z-f4ngiZSLdWsV3UBRObeO8lcKy3_C8')
+bot.run('teste')
