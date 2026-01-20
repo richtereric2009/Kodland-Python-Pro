@@ -6,19 +6,48 @@ body {
 }
 
 @keyframes color-change {
-  0%   { color: blue; }
-  50%  { color: red; }
-  100% { color: blue; }
+  0%   { color: orangered; }
+  50%  { color: orange; }
+  100% { color: red; }
 }
 
 h1 {
-    color: #5988FF; /* A cor do cabeçalho */
-    font-size: 24px; /* A cor da fonte do cabeçalho */
-    font-family: Inter; /* A font usada no cabeçalho*/
-    animation: color-change 3s infinite;
+    color: orangered; /* A cor do cabeçalho */
+    font-size: 64px; /* A cor da fonte do cabeçalho */
+    font-family: Inter; /* A fonte usada no cabeçalho*/
+    width: 420px;
+    margin: auto;
 }
+
+p {
+    color: black;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: -10px;
+    margin-left: 600px;
+}
+
+h1:hover {
+    animation: color-change 3s infinite; 
+}
+
 h2 {
-    color: #FD98FB;
+    margin-left: 50px;
+    font-size: 32px;
+    font-family: Inter;
+}
+
+h3 {
+    margin-left: 100px;
     font-size: 16px;
     font-family: Inter;
+}
+
+h4 {
+    margin-left: 40px;
+    font-size: 24px;  
+}
+ul {
+    margin-left: 50px;
+    font-size: 16px;
 }
